@@ -4,16 +4,14 @@ description: "欢迎来到我的博客！这是使用 Astro Theme Retypeset 创�
 published: "2024-01-20"
 updated: "2024-01-20"
 tags: 
-- 博客
-- Astro
-- 入门
+	- 博客
+	- Astro
+	- 入门
 draft: false
 lang: zh
 abbrlink: Hello-Blog
 ---
 
-
-十七八年前，我最后一次会见我的母校康耐儿大学的史学大师布尔先生（George Lincoln Burr）。我们谈到英国史学大师阿克顿（Lord Acton）一生准备要著作一部《自由之史》，没有写成他就死了。布尔先生那天谈话很多，有一句话我至今没有忘记。他说，“我年纪越大，越感觉到容忍（tolerance）比自由更重要”。
 # Hello Blog - 我的第一篇博客
 
 欢迎来到我的个人博客！这是我使用 Astro Theme Retypeset 主题创建的第一篇文章。
