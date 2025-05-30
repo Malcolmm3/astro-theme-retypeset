@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\src",
+    "\\src\\content",
     "\\src\\content\\posts"
   ],
-  "SelectedNode": "\\src\\content",
+  "SelectedNode": "\\src\\content\\posts\\2024-01-20-hello-blog.md",
   "PreviewInSolutionExplorer": false
 }
