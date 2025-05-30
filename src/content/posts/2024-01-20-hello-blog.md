@@ -3,10 +3,10 @@ title: "Hello Blog - 我的第一篇博客"
 description: "欢迎来到我的博客！这是使用 Astro Theme Retypeset 创建的第一篇文章，介绍了博客的基本功能和写作体验。"
 published: "2024-01-20"
 updated: "2024-01-20"
-tags: 
-	- 博客
-	- Astro
-	- 入门
+tags:
+  - 博客
+  - Astro
+  - 入门
 draft: false
 lang: zh
 abbrlink: Hello-Blog
