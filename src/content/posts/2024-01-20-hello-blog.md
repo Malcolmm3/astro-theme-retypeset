@@ -9,7 +9,7 @@ tags:
   - 入门
 draft: false
 lang: zh
-abbrlink: Hello-Blog
+abbrlink: hello-blog
 ---
 
 # Hello Blog - 我的第一篇博客
