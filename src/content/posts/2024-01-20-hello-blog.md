@@ -37,7 +37,7 @@ abbrlink: hello-blog
 
 ### 代码块
 ```javascript
-// 示例 JavaScript 代码
+
 function greetBlog() {
     console.log("Hello, Blog World!");
     return "欢迎来到我的博客！";
@@ -87,7 +87,7 @@ $$\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}$$
 
 - [Astro 官网](https://astro.build/)
 - [Retypeset 主题](https://github.com/radishzzz/astro-theme-retypeset)
-- [我的 GitHub](https://github.com/)
+- [我的 GitHub](https://github.com/Malcolmm3/)
 
 
 ## 图片展示
